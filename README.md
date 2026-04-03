@@ -1,8 +1,8 @@
-🐦 Twitter-Style Web Application
+🐦 Twitter-Style Web Application <br />
 A simple social media web application inspired by Twitter, where users can create posts and interact with a feed.
+<br /><br />
 
-
-🚀 Features
+🚀 Features <br />
 Create and view posts
 Dynamic feed displaying recent content
 Basic user interaction functionality
