@@ -3,45 +3,46 @@ A simple social media web application inspired by Twitter, where users can creat
 <br /><br />
 
 🚀 Features <br />
-Create and view posts
-Dynamic feed displaying recent content
-Basic user interaction functionality
-Backend handling of posts and data
-🛠️ Technologies Used
-Frontend: HTML, CSS
-Backend: Python
-Other: Flask, Jinja2, SQLAlchemy, WTForms, Bcrypt, Werkzeug, Pillow
+Create and view posts <br />
+Dynamic feed displaying recent content <br />
+Basic user interaction functionality <br />
+Backend handling of posts and data <br />
+
+🛠️ Technologies Used <br />
+Frontend: HTML, CSS <br />
+Backend: Python <br />
+Other: Flask, Jinja2, SQLAlchemy, WTForms, Bcrypt, Werkzeug, Pillow <br />
 
 
-📸 Overview
-This project was built to explore how social media platforms work, including handling user input, displaying dynamic content, and managing data between the frontend and backend.
+📸 Overview <br />
+This project was built to explore how social media platforms work, including handling user input, displaying dynamic content, and managing data between the frontend and backend. <br />
+<br />
 
+⚠️ Notes <br />
+This is an early prototype and focuses more on functionality than design. The user interface is basic, but the core features are implemented and are working. <br />
+<br />
 
-⚠️ Notes
-This is an early prototype and focuses more on functionality than design. The user interface is basic, but the core features are implemented and are working.
+▶️ How to Run<br />
+Clone the repository<br />
+Navigate to the project folder<br />
+Install any dependencies (if required)<br />
+Run the application (run.py)<br />
+<br />
 
+📚 What I Learned<br />
+How to structure/package a full-stack web application<br />
+Handling user input and updating the UI dynamically<br />
+Basics of backend development<br />
+Authentication and authorization<br />
+Pagination<br />
+One-To-Many DB relationships<br />
+Debugging and improving functionality over time<br />
+<br />
 
-▶️ How to Run
-Clone the repository
-Navigate to the project folder
-Install any dependencies (if required)
-Run the application (run.py)
+🔗 Future Improvements<br />
+Improve UI/UX design<br />
+Enhance responsiveness for mobile devices<br />
+<br /><br />
 
-
-📚 What I Learned
-How to structure/package a full-stack web application
-Handling user input and updating the UI dynamically
-Basics of backend development
-Authentication and authorization
-Pagination
-One-To-Many DB relationships
-Debugging and improving functionality over time
-
-
-🔗 Future Improvements
-Improve UI/UX design
-Enhance responsiveness for mobile devices
-
-
-👤 Author
+👤 Author<br />
 GitHub: https://github.com/1ostrich2
