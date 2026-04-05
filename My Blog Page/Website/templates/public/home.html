@@ -1,0 +1,14 @@
+{% extends 'layouts/layout.html' %}
+
+{% block content %}
+    <div class="row" data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" tabindex="0">
+        <div class="col mx-2">
+
+            {% for post, user in posts_and_users %}
+                {% include 'public/post.html' %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+{% endblock %}

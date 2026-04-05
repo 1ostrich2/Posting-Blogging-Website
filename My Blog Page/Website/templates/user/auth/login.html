@@ -1,0 +1,32 @@
+{% extends 'layouts/layout.html' %}
+
+{% block content %}
+
+    <fieldset class="pt-3 login-form-fieldset">
+        <form method="POST" action="/login" class="login-form">
+            {{ form.hidden_tag() }}
+            <legend class="fs-5 login-form-legend">
+                <small>
+                    <ul>
+                        {{ form.email.label(class="form-text") }}
+                        {{ form.email(class="form-control form-control mt-1") }}
+                    </ul>
+                    
+                    <ul>
+                        {{ form.password.label(class="form-text") }}
+                        {{ form.password(class="form-control form-control mt-1") }}
+                    </ul>
+                    
+                    <ul class="mb-0">
+                        <small class="text-muted mx-2 mb-0"><p>Don't have an account yet? <a href="{{ url_for('register') }}">Register</a></p></small>
+                    </ul>
+                    
+                    <ul>
+                        {{ form.submit(class="btn btn-outline-info bg-white") }}
+                    </ul>
+                </small>
+            </legend>
+        </form>
+    </fieldset>
+
+{% endblock %}

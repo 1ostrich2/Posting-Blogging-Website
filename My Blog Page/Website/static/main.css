@@ -1,0 +1,129 @@
+@media (min-width: 601px) {
+    .register-form, .login-form, .change-password-form, .change-display-name-form {
+        width: 90%;
+    }
+
+    .register-form-legend, .login-form-legend {
+        padding: 0px;
+        margin: 2px;
+    }
+
+    .register-form-fieldset, .login-form-fieldset {
+        padding: 0px;
+        margin: 2px;
+    }
+}
+
+@media (min-width: 768px) {
+    .register-form, .login-form, .change-password-form, .change-display-name-form {
+        width: 75%;
+    }
+
+    .register-form-legend, .login-form-legend {
+        padding: 5px;
+        margin: 0px;
+    }
+
+    .register-form-fieldset, .login-form-fieldset {
+        padding: 0px;
+        margin: 2px;
+    }
+}
+
+@media (min-width: 992px) {
+    .register-form, .login-form, .change-password-form, .change-display-name-form {
+        width: 75%;
+        border: 1px;
+    }
+
+    .register-form-legend, .login-form-legend {
+        padding: 5px;
+        margin: 2px;
+    }
+
+    .register-form-fieldset, .login-form-fieldset {
+        padding: 5px;
+        margin: 2px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .register-form, .login-form, .change-password-form, .change-display-name-form {
+        width: 65%;
+    }
+
+    .register-form-legend, .login-form-legend {
+        padding: 5px;
+        margin: 2px;
+    }
+
+    .register-form-fieldset, .login-form-fieldset {
+        padding: 5px;
+        margin: 2px;
+    }
+}
+
+.website-wrapper {
+    background-color: snow;
+}
+
+.post {
+    background-color: rgb(255, 252, 252);
+}
+
+.post-attachment-box {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 0.5px;
+    border-style: solid;
+    border-color: rgba(199, 199, 199, 0.721);
+    overflow: hidden;
+}
+
+.post-attachment:hover {
+    filter:none;
+}
+
+.post-attachment {
+    align-self: center;
+    width: 200px;
+    height: 200px;
+    filter:blur(2px);
+    transition: .15s ease-in-out;
+}
+
+.nav-link::before {
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.nav-link:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.nav-link::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    inset: 0 0 0 0;
+    background: hsl(200, 17%, 47%);
+    z-index: -1;
+    transition: transform .3s ease;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.nav-link {
+    position: relative;
+}
+
