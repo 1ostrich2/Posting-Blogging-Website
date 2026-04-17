@@ -1,4 +1,4 @@
-🐦 Twitter-Style Web Application <br />
+🐦 Twitter-Style Web Application - No AI used <br />
 - A simple social media web application inspired by Twitter, where users can create posts and interact with a feed.
 <br /><br />
 
