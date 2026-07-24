@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+instance/
+*.sqlite
+*.sqlite3
+Website/static/uploads/*
+!Website/static/uploads/.gitkeep
