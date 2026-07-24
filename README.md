@@ -28,9 +28,9 @@ A Flask-based social platform featuring user authentication, posts, comments, vo
 - Install any dependencies (if required)<br />
 - Run the application (run.py)<br />
 
-git clone https://github.com/1ostrich2/Flask-Social-Media-App.git
-cd Flask-Social-Media-App/"My Blog Page"
-python -m venv .venv
+git clone https://github.com/1ostrich2/Flask-Social-Media-App.git <br />
+cd Flask-Social-Media-App/"My Blog Page" <br />
+python -m venv .venv <br />
 
 <br />
 
