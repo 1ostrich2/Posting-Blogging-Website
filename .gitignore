@@ -6,5 +6,5 @@ __pycache__/
 instance/
 *.sqlite
 *.sqlite3
-Website/static/uploads/*
-!Website/static/uploads/.gitkeep
+My Blog Page/Website/static/uploads/*
+!My Blog Page/Website/static/uploads/.gitkeep
