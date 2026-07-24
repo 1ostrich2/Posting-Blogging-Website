@@ -18,13 +18,13 @@ A Flask-based social platform featuring user authentication, posts, comments, vo
 - This project was built to explore how social media platforms work, including handling user input, displaying dynamic content, and managing data between the frontend and backend. <br />
 ## Screenshots <br />
 
-### Home Feed <br />
+### Viewing Posts <br />
 ![Viewing posts](Screenshots/post-demo.png) <br />
 <br />
-### Login Page <br />
+### Registeration Page <br />
 ![Registeration page](Screenshots/register-demo.png) <br />
 ### Viewing Attachments <br />
-![Registeration page](Screenshots/view-attachment-demo.png) <br />
+![Viewing Attachments](Screenshots/view-attachment-demo.png) <br />
 <br />
 
 ⚠️ Notes <br />
