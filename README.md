@@ -1,5 +1,5 @@
-🐦 Twitter-Style Web Application - NO AI USED <br />
-- A simple social media web application inspired by Twitter, where users can create posts and interact with a feed.
+🐦 Twitter-Style Web Application <br />
+A Flask-based social platform featuring user authentication, posts, comments, voting, image uploads and account management.
 <br /><br />
 
 🚀 Features <br />
