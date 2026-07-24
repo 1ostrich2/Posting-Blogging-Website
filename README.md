@@ -27,6 +27,13 @@
 - Navigate to the project folder<br />
 - Install any dependencies (if required)<br />
 - Run the application (run.py)<br />
+
+git clone <repository-url>
+cd Posting-Blogging-Website/"My Blog Page"
+
+python -m venv .venv
+pip install -r ../requirements.txt
+python run.py
 <br />
 
 📚 What I Learned<br />
