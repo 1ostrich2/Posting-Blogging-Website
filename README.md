@@ -21,8 +21,8 @@ A Flask-based social platform featuring user authentication, posts, comments, vo
 ### Viewing Posts <br />
 ![Viewing posts](Screenshots/post-demo.png) <br />
 <br />
-### Registeration Page <br />
-![Registeration page](Screenshots/register-demo.png) <br />
+### Registration Page <br />
+![Registration page](Screenshots/register-demo.png) <br />
 ### Viewing Attachments <br />
 ![Viewing Attachments](Screenshots/view-attachment-demo.png) <br />
 <br />
